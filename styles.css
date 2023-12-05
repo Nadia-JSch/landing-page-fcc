@@ -250,10 +250,11 @@ footer > p {
 
   #pricing-section {
     max-width: 1000px;
-    margin: 8rem 1rem;
+    margin: 8rem auto 8rem;
     display: grid;
     gap: 2rem;
     grid-template-columns: repeat(3, 1fr);
+    
   }
 
   .price-box {
